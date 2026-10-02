@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🤖 Programação em IA: Curso de Férias - Senai (40 horas)
+# 🤖 Programação em IA Generativa
+## Curso de Férias - Senai (40 horas)
 
 **Exercícios e práticas de Ciência de Dados, Machine Learning, Deep Learning e PLN em Python**
 
